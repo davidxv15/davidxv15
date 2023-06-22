@@ -1,4 +1,10 @@
 ### Hi there 👋
+### I'm currently working on 30 days of JavaScript and creating application templates.
+
+###Fun Fact: I'm a multi-instrumentalist, music producer, voice actor, and film scorer.
+
+
+
 
 <!--
 **davidxv15/davidxv15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
