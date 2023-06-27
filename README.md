@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm currently working on 30 days of JavaScript and creating application templates.
+### I'm currently working on Algorithms and Data Structures and creating application templates, along with my own app ideas.
 Fun Fact: I'm a multi-instrumentalist, music producer, voice actor, and film scorer.
 
 
