@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### I'm currently working on:
-Creating a website for a local business, that can assist in scheduling services.
-Strengthening Python competencies.
-Algorithms and Data Structures
-Creating application templates
-My own app ideas.
-Collecting data for my large-scale initiative project.
+###Creating a website for a local business, that can assist in scheduling services.
+###Strengthening Python competencies.
+###Algorithms and Data Structures
+###Creating application templates
+###My own app ideas.
+###Collecting data for my large-scale initiative project.
 
 Fun Fact: I'm a multi-instrumentalist, music producer, voice actor, and film scorer.
 
