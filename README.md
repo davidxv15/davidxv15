@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm currently working on: Creating a website for a local business that can assist in scheduling services. Strengthening REACT competencies by building projects, Algorithms and Data Structures logic, creating application templates and my own app ideas, and collecting data for a large-scale initiative project.
+### I'm currently working on: Creating a website for a local business that can assist in scheduling services. Strengthening REACT, TypeScript, and Vite competencies by building projects, Algorithms and Data Structures logic, creating application templates and my own app ideas, and collecting data for a large-scale initiative project.
 
 Fun Fact: I'm a multi-instrumentalist, music producer, voice actor, and film scorer.
 
