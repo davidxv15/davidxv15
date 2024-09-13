@@ -1,5 +1,9 @@
 ### Hi there 👋
-### I'm currently working on: Learning Java. Strengthening REACT, TypeScript with Vite competencies by building projects, Algorithms and Data Structures logic, creating application templates and my own app ideas, and collecting data for a large-scale initiative project.
+### I'm currently working on: 
+- Strengthening REACT, TypeScript, and Java competencies by building projects.
+- Studying algorithms and Data Structures logic.
+- Creating application templates and my own app ideas.
+- Collecting data for a large-scale initiative project.
 
 Fun Fact: I'm a multi-instrumentalist, music producer, voice actor, and film scorer.
 
