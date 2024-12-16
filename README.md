@@ -1,9 +1,9 @@
 ### Hi there 👋
-### I'm currently working on: 
-- Strengthening REACT, TypeScript, and Java competencies by building projects.
+### I'm currently working on:  
+- Ai-powered sentiment analysis dashboard, Agentic RAG Applications, Cloud development, React, TypeScript.
 - Studying algorithms and Data Structures logic.
-- Creating application templates and my own app ideas.
-- Collecting data for a large-scale initiative project.
+- Creating application templates.
+- Collecting data for a large-scale future project.
 
 Fun Fact: I'm a multi-instrumentalist, music producer, voice actor, and film scorer.
 
