@@ -2,7 +2,7 @@
 ### I'm currently working on:  
 - Ai-powered sentiment analysis dashboard, Agentic RAG Applications, Cloud development, React, TypeScript.
 - Adding to catalogue of application templates.
-- Collecting data for a large-scale future project.
+- Collecting data for ever-growing list of future projects.
 
 Fun Fact: I'm a multi-instrumentalist, music producer, voice actor, and film scorer.
 
