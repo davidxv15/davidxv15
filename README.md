@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm currently working on:  
 - Ai-powered sentiment analysis dashboard, Agentic RAG Applications, Cloud development, React, TypeScript.
-- Adding to catalogue of application templates.
-- Collecting data for ever-growing list of future projects.
+- Application templates.
+- Collecting data for future projects.
 
 Fun Fact: I'm a multi-instrumentalist, music producer, voice actor, composer.
 
