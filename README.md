@@ -1,6 +1,5 @@
 Welcome, friend 👋
-Current Develeopment Stack:
-## React, TypeScript, Tailwind, Vite
+Current Develeopment Stack: React, TypeScript, Tailwind, Vite.
 
 ### I'm currently working on:  
 - Cloud Development, Ai-powered applications, Agentic RAG applications.
@@ -8,6 +7,27 @@ Current Develeopment Stack:
 - Collecting data for future projects.
 
 ### Skills
+Bootstrap
+CSS
+Django
+Express.js
+Figma
+Git
+GitHub
+HTML5
+JavaScript
+MongoDB
+Netlify
+Node.js
+Photoshop
+Postman
+React
+Socket.io
+SQL
+Tailwind
+TypeScript
+Vite
+WebSocket
 
 Fun Fact: I'm a multi-instrumentalist, music producer, voice actor, composer.
 
