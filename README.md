@@ -1,8 +1,13 @@
 ### Hi there 👋
+### Current Develeopment Stack: React, TypeScript, Tailwind, Vite
+
 ### I'm currently working on:  
+- 
 - Ai-powered sentiment analysis dashboard, Agentic RAG Applications, Cloud development, React, TypeScript.
 - Application templates.
 - Collecting data for future projects.
+
+### Skills
 
 Fun Fact: I'm a multi-instrumentalist, music producer, voice actor, composer.
 
