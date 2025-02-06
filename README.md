@@ -1,5 +1,5 @@
 ### Hi there 👋
-Current Develeopment Stack:  
+Current Develeopment Stack: 
 ### React, TypeScript, Tailwind, Vite
 
 ### I'm currently working on:  
