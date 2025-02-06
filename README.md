@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 Current Develeopment Stack:
 ### React, TypeScript, Tailwind, Vite
 
