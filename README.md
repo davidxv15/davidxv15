@@ -6,7 +6,7 @@ Current Develeopment Stack: React, TypeScript, Tailwind, Vite.
 - Application templates.
 - Collecting data for future projects.
 
-### Skills
+### Skills  
 Bootstrap,
 CSS,
 Django,
