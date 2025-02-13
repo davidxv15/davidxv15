@@ -5,7 +5,7 @@ Current Develeopment Stack: React, TypeScript, Tailwind, Vite.
 - Cloud Development, Ai-powered applications, Agentic RAG applications.
 - Application templates.
 - Collecting data for future projects.
-- Reading Nodes
+- Reading Nodes.
 
 ### Skills  
 Bootstrap,
