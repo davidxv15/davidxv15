@@ -1,9 +1,6 @@
 ### Current Develeopment Stack:
 React, TypeScript, Tailwind, Vite.
 
-![ReactLogo](https://github.com/user-attachments/assets/a3cfa43a-9461-4e39-8361-3505c0ea79ba){width-50}
-
-
 
 Welcome, friend 👋  
 
