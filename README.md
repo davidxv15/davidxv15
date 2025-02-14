@@ -1,4 +1,4 @@
-### Current Develeopment Stack:  React, TypeScript, Tailwind, Vite.
+### Current Develeopment Stack:   React, TypeScript, Tailwind, Vite.
 
 
 
