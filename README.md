@@ -9,7 +9,7 @@ React, TypeScript, Tailwind, Vite.
 - Cloud Development, Ai-powered applications, Agentic RAG applications.
 - Application templates.
 - Collecting data for future projects.
-- Reading Nodes.
+- Reading Node.
 
 ### Skills  
 Bootstrap,
@@ -33,6 +33,7 @@ Tailwind,
 TypeScript,
 Vite,
 WebSocket.
+
 
 Fun Fact: I'm a multi-instrumentalist, music producer, voice actor, composer.
 
