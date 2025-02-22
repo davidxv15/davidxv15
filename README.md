@@ -9,7 +9,7 @@ React, TypeScript, Tailwind, Vite.
 - Cloud Development, Ai-powered applications, Agentic RAG applications.
 - Application templates.
 - Collecting data for future projects.
-- Reading Node.
+- Reading docs.
 
 ### Skills  
 Bootstrap,
