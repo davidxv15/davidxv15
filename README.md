@@ -1,8 +1,8 @@
 *Welcome, Friend 👋🏼*  
-# <h1>Current Development Stack:</h1> 
-React, TypeScript, Tailwind, Vite;
+## **Current Development Stack:**
+- **React, TypeScript, Tailwind, Vite;**
 
-# **Currently Working On:**
+## **Currently Working On:**
 - **Cloud & AI-powered Applications**  
 - **Learning Python in AI Development**
 - **Building Modular Application Templates**  
@@ -14,8 +14,9 @@ React, TypeScript, Tailwind, Vite;
 **Backend:** Node.js, Express.js, Django, SQL, MongoDB  
 **DevOps & Cloud:** Netlify, AWS, WebSockets, Socket.io  
 **Tools:** Postman, Figma, Photoshop  
-<h2>Research & Publication</h2>
-**Published Research:** *The Ascensia Effect* – A behavioral principle on temporary surges in performance before stabilization, with applications in **AI, cognitive science, and medical research.**  
+## **Research & Publication**  
+**Published Research:** *The Ascensia Effect* – A behavioral principle on temporary surges in performance before stabilization, with applications in **AI, cognitive science, and medical research.**
+
 📄 [Read the Paper](https://doi.org/10.5281/zenodo.14920556)  
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14920556.svg)](https://doi.org/10.5281/zenodo.14920556)  
