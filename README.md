@@ -1,8 +1,7 @@
 *Welcome, Friend 👋🏼*  
 ## **Current Development Stack: React, TypeScript, Tailwind, Vite**
 
-
-## **Currently Working On**  
+## **Currently Working On:**
 - **Cloud & AI-powered Applications**  
 - **Building Modular Application Templates**  
 - **Data Collection & Analysis for Future Projects**  
