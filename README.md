@@ -11,7 +11,7 @@ React, TypeScript, Tailwind, Vite.
 - Collecting data for future projects.
 - Reading docs.
 
-# The Ascensia Effect: A Model for Temporary Surges in Desirable Behavior Before Stabilization  
+## The Ascensia Effect: A Model for Temporary Surges in Desirable Behavior Before Stabilization  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14920556.svg)](https://doi.org/10.5281/zenodo.14920556)
 
 
