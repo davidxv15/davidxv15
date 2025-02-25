@@ -39,29 +39,6 @@ If you're interested in expanding on this research, feel free to **discuss, cite
 
 ---
 
-## **Skills**  
-*(I will list my skills here.)*  
-
-
-
-
-
-## The Ascensia Effect: A Model for Temporary Surges in Desirable Behavior Before Stabilization  
-
-
-## 📖 About This Research  
-This repository contains the official preprint for **The Ascensia Effect**, a newly defined behavioral principle that describes **temporary surges in desirable behavior before stabilization.**  
-- It explores applications in **AI reinforcement learning, cognitive science, medical research (dementia treatment), emergency response, and human performance optimization.**  
-- Introduces the **Jasso Principle (AI)** for cross-domain expertise transfer and **Protenza (Music)** for surges in expressive intensity.  
-
-🔗 **Read the full research paper on Zenodo:**  
-👉 [Click here to access the paper](https://doi.org/YOUR-DOI-HERE)  
-
-## 🚀 Future Work & Contributions  
-If you're interested in expanding on this research, feel free to **discuss, cite, or contribute ideas!**  
-
----
-
 
 ### Skills  
 Bootstrap,
