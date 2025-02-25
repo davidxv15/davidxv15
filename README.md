@@ -7,6 +7,11 @@
 - **Data Collection & Analysis for Future Projects**  
 
 ---
+## **Technical Skills & Tools**  
+**Frontend:** React, TypeScript, Tailwind, Bootstrap, HTML5, CSS  
+**Backend:** Node.js, Express.js, Django, SQL, MongoDB  
+**DevOps & Cloud:** Netlify, AWS, WebSockets, Socket.io  
+**Tools:** Postman, Figma, Photoshop  
 
 ## **Research & Publication**  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14920556.svg)](https://doi.org/10.5281/zenodo.14920556)  
@@ -16,11 +21,6 @@
 
 ---
 
-## **Technical Skills & Tools**  
-**Frontend:** React, TypeScript, Tailwind, Bootstrap, HTML5, CSS  
-**Backend:** Node.js, Express.js, Django, SQL, MongoDB  
-**DevOps & Cloud:** Netlify, AWS, WebSockets, Socket.io  
-**Tools:** Postman, Figma, Photoshop  
 
 ---
 
