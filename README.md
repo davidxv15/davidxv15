@@ -1,4 +1,4 @@
-# **Welcome, Friend 👋🏼**  
+*Welcome, Friend 👋🏼*
 ## **🌟 Current Development Stack:**  
 React, TypeScript, Tailwind, Vite  
 
