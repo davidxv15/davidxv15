@@ -4,7 +4,7 @@ React, TypeScript, Tailwind, Vite;
 
 # **Currently Working On:**
 - **Cloud & AI-powered Applications**  
-- **Python**
+- **Learning Python in AI Development**
 - **Building Modular Application Templates**  
 - **Data Collection & Analysis for Future Projects**  
 
