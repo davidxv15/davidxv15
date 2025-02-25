@@ -1,15 +1,15 @@
 Welcome, friend 👋  
 
-## Current Develeopment Stack:
-React, TypeScript, Tailwind, Vite.
+## Current Develeopment Stack: 
+React, TypeScript, Tailwind, Vite. 
 
 
 
-## Currently working on:
-- Cloud Development, Ai-powered applications, Agentic RAG applications.
-- Application templates.
-- Collecting data for future projects.
-- Reading docs.
+## Currently working on: 
+- Cloud Development, Ai-powered applications, Agentic RAG applications. 
+- Application templates. 
+- Collecting data for future projects. 
+- Reading docs. 
 
 ## The Ascensia Effect: A Model for Temporary Surges in Desirable Behavior Before Stabilization  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14920556.svg)](https://doi.org/10.5281/zenodo.14920556)
