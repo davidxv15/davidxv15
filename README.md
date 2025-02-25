@@ -18,13 +18,10 @@ React, TypeScript, Tailwind, Vite;
 ## **Research & Publication**  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14920556.svg)](https://doi.org/10.5281/zenodo.14920556)  
 
-💡 **Published Research:** *The Ascensia Effect* – A behavioral principle on temporary surges in performance before stabilization, with applications in **AI, cognitive science, and medical research.**  
+**Published Research:** *The Ascensia Effect* – A behavioral principle on temporary surges in performance before stabilization, with applications in **AI, cognitive science, and medical research.**  
 📄 [Read the Paper](https://doi.org/10.5281/zenodo.14920556)  
+<a href="https://doi.org/10.5281/zenodo.14920556"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14920556.svg" alt="DOI"></a>
 
----
-
-
----
 
 ## **Fun Fact About Me**  
 **I'm a multi-instrumentalist, composer, music producer, and voice actor.**  
