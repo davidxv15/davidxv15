@@ -1,11 +1,11 @@
 Welcome, friend 👋  
 
-**Current Develeopment Stack:**
+##Current Develeopment Stack:
 React, TypeScript, Tailwind, Vite.
 
 
 
-**Currently working on:** 
+##Currently working on:
 - Cloud Development, Ai-powered applications, Agentic RAG applications.
 - Application templates.
 - Collecting data for future projects.
