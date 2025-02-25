@@ -11,10 +11,9 @@ React, TypeScript, Tailwind, Vite.
 - Collecting data for future projects.
 - Reading docs.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14920556.svg)](https://doi.org/10.5281/zenodo.14920556)
 # The Ascensia Effect: A Model for Temporary Surges in Desirable Behavior Before Stabilization  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14920556.svg)](https://doi.org/10.5281/zenodo.14920556)
 
-[![DOI](https://zenodo.org/badge/DOI/YOUR-DOI-HERE.svg)](https://doi.org/YOUR-DOI-HERE)  
 
 ## 📖 About This Research  
 This repository contains the official preprint for **The Ascensia Effect**, a newly defined behavioral principle that describes **temporary surges in desirable behavior before stabilization.**  
