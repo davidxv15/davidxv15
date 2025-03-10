@@ -17,7 +17,7 @@
 ## **Research & Publication**  
 **Published Research:** *The Ascensia Effect* – A behavioral principle on temporary surges in performance before stabilization, with applications in **AI, cognitive science, and medical research.**
 
-📄 [Read the Paper](https://doi.org/10.5281/zenodo.14920556)  
+📄 [Read Paper](https://doi.org/10.5281/zenodo.14920556)  
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14920556.svg)](https://doi.org/10.5281/zenodo.14920556)  
 # 
