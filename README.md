@@ -12,7 +12,7 @@
 
 ---
 ## **Projects**  
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1f4bf78a-7b9c-4489-a62f-4bb07937afb7/deploy-status)](https://app.netlify.com/sites/chat-department/deploys) **Chat-App** -  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1f4bf78a-7b9c-4489-a62f-4bb07937afb7/deploy-status)](https://app.netlify.com/sites/chat-department/deploys) **Chat-App** -  A real-time chat app featuring authentication, custom chat rooms, and live user presence.  
 **WeatherGetter** -  
 **Nutrition Calendar** -  
 ## **Technical Skills & Tools**  
