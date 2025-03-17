@@ -15,7 +15,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1f4bf78a-7b9c-4489-a62f-4bb07937afb7/deploy-status)](https://app.netlify.com/sites/chat-department/deploys) **Chat-App** -  A real-time chat app featuring authentication, custom chat rooms, and live user presence.  
  [![Netlify Status](https://api.netlify.com/api/v1/badges/04c8f089-0de1-4778-b889-cdfe93b5aa60/deploy-status)](https://app.netlify.com/sites/weathergetterapp/deploys) **WeatherGetter** -  About
 A weather app providing real-time forecasts and location-based data for your favorite cities.  
-**Nutrition Calendar** -  
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/332ff891-7a53-402c-ad3e-f522ba3e3be7/deploy-status)](https://app.netlify.com/sites/nutrition-calendar/deploys) **Nutrition Calendar** -  
 ## **Technical Skills & Tools**  
 **Frontend:** React, TypeScript, Tailwind, Bootstrap, HTML5, CSS  
 **Backend:** Node.js, Express.js, Django, SQL, MongoDB  
