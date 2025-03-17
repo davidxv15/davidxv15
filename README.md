@@ -11,6 +11,10 @@
 - **Data Collection & Analysis for Future Projects**  
 
 ---
+## **Projects**  
+**Chat-App** -  
+**WeatherGetter** -  
+**Nutrition Calendar** -  
 ## **Technical Skills & Tools**  
 **Frontend:** React, TypeScript, Tailwind, Bootstrap, HTML5, CSS  
 **Backend:** Node.js, Express.js, Django, SQL, MongoDB  
