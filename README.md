@@ -1,5 +1,5 @@
 *Welcome, Friend 👋🏼*     
-Checkout my **[Portfolio](https://davidxv15.github.io/Portfolio-2/)**.
+
 
 ## **Current Development Stack:**
 - **React, TypeScript, Tailwind, Vite, CSS**
