@@ -9,6 +9,7 @@
 ## **Currently Working On**
 - **Cloud & AI-powered Applications**  
 - **Learning Python in AI Development**
+- **Learning C# in interactive environments to support future development**
 - **Building Modular Application Templates**  
 - **Data Collection & Analysis for Future Projects**  
 
