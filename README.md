@@ -6,8 +6,7 @@
 ## **Current Development Stack**
 - **React, TypeScript, Tailwind, Vite, CSS**
 
-## **Currently Working On**
-- **Cloud & AI-powered Applications**  
+## **Currently Working On
 - **Learning Python in AI Development**
 - **Learning C# in Interactive Environments to support Future Development**
 - **Building Modular Application Templates**  
