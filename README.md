@@ -7,7 +7,7 @@
 - **React, TypeScript, Tailwind, Vite, CSS**
 
 ## **Currently Working On**
-- **Learning Python in AI Development**
+- **Learning AI Development**
 - **Learning C# in Interactive Environments to support Future Development**
 - **Data Collection & Analysis for Future Projects**  
 
