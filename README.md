@@ -8,7 +8,6 @@
 
 ## **Currently Working On**
 - **Learning AI Development**
-- **Learning C# in Interactive Environments to support Future Development**
 - **Data Collection & Analysis for Future Projects**  
 
 ---
