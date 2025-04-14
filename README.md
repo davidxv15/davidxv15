@@ -22,7 +22,7 @@ Weather app providing real-time forecasts and location-based data for favorite c
 **Backend:** Node.js, Express.js, Django, SQL, MongoDB  
 **DevOps & Cloud:** Netlify, AWS, WebSockets, Socket.io  
 **Tools:** Postman, Figma, Photoshop  
-## **Research & Publication**  
+## **Research**  
 **Published Research:** *The Ascensia Effect* – A behavioral principle on temporary surges in performance before stabilization, with applications in **AI, cognitive science, and medical research.**
 
 📄 [Read Paper](https://doi.org/10.5281/zenodo.14920556)  
