@@ -4,7 +4,7 @@
 
 
 ## **Current Development Stack**
-- **React, TypeScript, Tailwind, Vite, CSS**
+- **React, TypeScript, Vite, Tailwind, CSS**
 
 ## **Currently Working On**
 - **Learning AI Development**
