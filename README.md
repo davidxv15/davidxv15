@@ -7,8 +7,8 @@
 - **React, TypeScript, Vite, Tailwind, CSS**
 
 ## **Currently Working On**
-- **Learning AI Development**
 - **Data Collection & Analysis for Future Projects**  
+- **Learning AI Development**
 
 ---
 ## **Projects**  
