@@ -3,7 +3,7 @@
 *Welcome, Friend 👋🏼*     
 
 
-## **Current Development Stack**
+## **Current Development Tools**
 - **React, TypeScript, Vite, Tailwind, CSS**
 
 ## **Currently Working On**
