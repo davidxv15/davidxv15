@@ -11,7 +11,7 @@
 - **Learning AI Development**
 
 ---
-## **Projects**  
+## **Portfolio Projects**  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1f4bf78a-7b9c-4489-a62f-4bb07937afb7/deploy-status)](https://app.netlify.com/sites/chat-department/deploys) **[Chat-App](https://chat-department.netlify.app/login)** -  Real-time chat app featuring authentication, custom chat rooms, and live user presence.  
  [![Netlify Status](https://api.netlify.com/api/v1/badges/04c8f089-0de1-4778-b889-cdfe93b5aa60/deploy-status)](https://app.netlify.com/sites/weathergetterapp/deploys) **[WeatherGetter](https://weathergetterapp.netlify.app/)** -
 Weather app providing real-time forecasts and location-based data for favorite cities.  
