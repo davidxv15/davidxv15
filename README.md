@@ -4,7 +4,7 @@
 
 
 ## **Current Development Tools**
-- **React, TypeScript, Vite, Tailwind, CSS**
+- **React, TypeScript, Vite, PostgreSQL, Express, Node, Tailwind, CSS**
 
 ## **Currently Working On**
 - **Data Collection & Analysis for Future Projects**  
