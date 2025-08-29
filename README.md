@@ -8,7 +8,7 @@
 
 ## **Currently Working On**
 - **Data Collection & Analysis for Future Projects**  
-- **Learning AI Development**
+- **Cloud fundamentals**
 
 ---
 ## **Portfolio Projects**  
