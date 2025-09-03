@@ -7,7 +7,7 @@
 - **React, TypeScript, Vite, PostgreSQL, Express, Node, Tailwind, CSS**
 
 ## **Currently Working On**
-- **Cloud Engineering Development**
+- **Cloud Development**
 - **Data Collection & Analysis for Future Projects**  
 
 ---
