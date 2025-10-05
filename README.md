@@ -1,6 +1,7 @@
 **[ Software Engineer Portfolio](https://davidxv15.github.io/Portfolio-2/)**  
   
 *Welcome, Friend 👋🏼*     
+My work is a natural rotation between strategy and execution — mapping problems recursively into components (thinker mode) and then drilling into details to implement solutions (doer mode). This recursive discernment process ensures I can break down complexity, reach the root cause, and bubble solutions back up into the system without stalling in either over-planning or blind action.
 
 
 ## **Current Development Tools**
