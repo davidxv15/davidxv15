@@ -5,7 +5,7 @@ My work is a natural rotation between strategy and execution — mapping problem
 
 
 ## **Current Development Tools**
-- **React, TypeScript, Vite, PostgreSQL, Express, Node, Tailwind, CSS**
+- **React, TypeScript, Vite, MongoDB, PostgreSQL, Node.js, Express.js, Tailwind, CSS**
 
 ## **Currently Working On**
 - **Cloud Development**
