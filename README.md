@@ -3,7 +3,7 @@ Software Engineer | React • TypeScript • Node.js • Express
  **Welcome, Friend 👋🏼**     
 **[ Portfolio](https://davidxv15.github.io/Portfolio-2/)**  |
 **[ Resume ](https://docs.google.com/document/d/11cGqEEy-bowdMk_YnR57Mz0_tNbCS3WFDHg3V8Ov4bM/preview)**  |
-**[ PDF ](https://docs.google.com/document/d/1rCMNfXOScSUmrHeD7RPyC1zhrGlkFpxvzR5XHnhuS94/edit?tab=t.0)**  
+**[ PDF ](https://docs.google.com/document/d/1rCMNfXOScSUmrHeD7RPyC1zhrGlkFpxvzR5XHnhuS94/preview)**  
         
         
 My work is a natural rotation between strategy and execution — mapping problems recursively into components, then drilling into details to implement solutions. This recursive discernment process ensures I can break down complexity, reach the root cause, and send solutions back up into the system without stalling in over-planning or blind action.
