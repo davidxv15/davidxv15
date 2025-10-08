@@ -2,7 +2,7 @@ Software Engineer | React • TypeScript • Node.js • Express
 
  **Welcome, Friend 👋🏼**     
 **[ Portfolio](https://davidxv15.github.io/Portfolio-2/)**  |
-**[ Resume ](https://docs.google.com/document/d/11cGqEEy-bowdMk_YnR57Mz0_tNbCS3WFDHg3V8Ov4bM/edit?tab=t.0)**  |
+**[ Resume ](https://docs.google.com/document/d/11cGqEEy-bowdMk_YnR57Mz0_tNbCS3WFDHg3V8Ov4bM/preview)**  |
 **[ PDF ](https://docs.google.com/document/d/1rCMNfXOScSUmrHeD7RPyC1zhrGlkFpxvzR5XHnhuS94/edit?tab=t.0)**  
         
         
