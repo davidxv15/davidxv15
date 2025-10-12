@@ -35,4 +35,4 @@ Weather app providing real-time forecasts and location-based data for favorite c
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14920556.svg)](https://doi.org/10.5281/zenodo.14920556)  
 # 
  *Fun Fact About Me:*  
-I'm a multi-instrumentalist, composer, music producer, and voice actor.
+I'm a multi-instrumentalist, composer, and music producer.
