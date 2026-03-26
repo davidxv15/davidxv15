@@ -6,7 +6,11 @@ Software Engineer | React • TypeScript • Node.js • Express
 **[ PDF ](https://docs.google.com/document/d/1rCMNfXOScSUmrHeD7RPyC1zhrGlkFpxvzR5XHnhuS94/preview)**  
         
         
-My work is a natural rotation between strategy and execution — mapping problems recursively into components, then drilling into details to implement solutions. This recursive discernment process ensures I can break down complexity, reach the root cause, and send solutions back up into the system without stalling in over-planning or blind action.
+
+I build applications using modular, data-driven UI systems.  
+My workflow focuses on breaking complex problems into reusable components, mapping data structures to UI patterns, and iterating quickly between architecture and implementation.
+
+I enjoy designing clear interfaces, predictable state flows, and maintainable component structures that scale with a project.
 
 
 ## **Current Development Tools**
