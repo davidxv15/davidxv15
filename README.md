@@ -4,16 +4,15 @@ Software Engineer | React • TypeScript • Node.js • Express
 **[ Portfolio](https://davidxv15.github.io/Portfolio-2/)**  |
 **[ Resume ](https://docs.google.com/document/d/11cGqEEy-bowdMk_YnR57Mz0_tNbCS3WFDHg3V8Ov4bM/preview)**  |
 **[ PDF ](https://docs.google.com/document/d/1rCMNfXOScSUmrHeD7RPyC1zhrGlkFpxvzR5XHnhuS94/preview)**  
+
+
         
-        
+I design modular web applications using data-driven rendering and reusable component systems.  
+Most of my work focuses on React + TypeScript architectures where UI components are mapped directly from structured data, allowing features to scale cleanly while keeping implementation predictable and maintainable.  
 
-I build applications using modular, data-driven UI systems.  
-My workflow focuses on breaking complex problems into reusable components, mapping data structures to UI patterns, and iterating quickly between architecture and implementation.
+I enjoy working at both the architectural and implementation layers — defining system structure, then drilling into the code to build it.
 
-I enjoy designing clear interfaces, predictable state flows, and maintainable component structures that scale with a project.
-
-
-## **Current Development Tools**
+## **Tech Stack**
 - **React, TypeScript, Vite, MongoDB, PostgreSQL, Node.js, Express.js, Tailwind, CSS**
 
 ## **Currently Working On**
